@@ -1,6 +1,6 @@
 {
   "name": "teleprompter",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "Browser-based TelePrompter with Remote Control",
   "homepage": "https://github.com/manifestinteractive/teleprompter",
   "license": "MIT",
@@ -32,9 +32,9 @@
     "server": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "forever": "^4.0.0",
-    "socket.io": "^4.1.2"
+    "socket.io": "^4.5.4"
   },
   "devDependencies": {
     "http-server": "^0.12.3"
